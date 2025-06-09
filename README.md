@@ -48,6 +48,10 @@ This workflow illustrates how combining health and behavioral monitoring data ca
 
 ---
 
+### Application link
+
+- https://cognitivewellnessmonitor.streamlit.app/
+
 ### Future plan
 
 - Associate with hospitals. I am already in talks with some of them.
