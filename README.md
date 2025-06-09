@@ -45,3 +45,11 @@ By addressing these objectives, the project contributes to the growing need for 
 - Saved the trained model for potential future deployment.
 
 This workflow illustrates how combining health and behavioral monitoring data can support early identification of cognitive health risks, contributing to safer and more independent living.
+
+---
+
+### Future plan
+
+- Associate with hospitals. I am already in talks with some of them.
+
+- Use their real time data to train the model better and help them to foresee cognitive issues in their patients who consult with other departments.
